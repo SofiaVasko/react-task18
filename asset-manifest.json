@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-task18/static/css/main.badf1e03.css",
+    "main.js": "/react-task18/static/js/main.661fa7dc.js",
+    "static/js/453.44cfb2e3.chunk.js": "/react-task18/static/js/453.44cfb2e3.chunk.js",
+    "static/media/snake.jpg": "/react-task18/static/media/snake.a3ec02fd0e390968a1cd.jpg",
+    "index.html": "/react-task18/index.html",
+    "main.badf1e03.css.map": "/react-task18/static/css/main.badf1e03.css.map",
+    "main.661fa7dc.js.map": "/react-task18/static/js/main.661fa7dc.js.map",
+    "453.44cfb2e3.chunk.js.map": "/react-task18/static/js/453.44cfb2e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.badf1e03.css",
+    "static/js/main.661fa7dc.js"
+  ]
+}
